@@ -3,4 +3,8 @@ commit test
 456
 789
 Add line
+<<<<<<< HEAD
 hey
+=======
+test2
+>>>>>>> f19143f4577512fc00c8b2359dc90b42a5460c74
