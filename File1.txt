@@ -6,4 +6,5 @@ Add line
 hey
 test2
 hey
-test2
+test2My new line
+My new line
