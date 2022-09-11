@@ -5,5 +5,3 @@ commit test
 Add line
 hey
 test2
-hey
-test2
